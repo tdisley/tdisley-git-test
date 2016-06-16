@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a293542094b97386ad45e526bb35c51029b66063
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a293542094b97386ad45e526bb35c51029b66063
 # C extensions
 *.so
 
@@ -88,4 +95,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+<<<<<<< HEAD
 >>>>>>> b2a8e03149612cbe42dd07003a2100c93dc97d0e
+=======
+>>>>>>> a293542094b97386ad45e526bb35c51029b66063
